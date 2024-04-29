@@ -1,9 +1,10 @@
 ## Howdy 👋
 
 Augmenos is an independent development studio focused on spatial computing experiences. We collaborate with others to design, code, and publish stunning apps on visionOS and more. Published projects:
-- [Cyberstocks](https://www.augmenos.com/cyberstocks)
-- [Mexico Vision](https://www.augmenos.com/mexicovision)
-- [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS)
+- [Museas](https://www.augmenos.com/museas) - Spatial museum with a curated collection of artworks, narrated commentary, and immersive  environments.
+- [Cyberstocks](https://www.augmenos.com/cyberstocks) - Augmented stock market with real-time data, spatial tickers, charts, and themes. 
+- [Mexico Vision](https://www.augmenos.com/mexicovision) - Interactive 3D gallery of Mexican art, culture, and history with multilingual  support.
+- [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS) - Open source template for Beautiful Things visionOS app.
 
 #### Augmented Reality
 Building scalable and stunning apps using the latest AR technologies from Apple including ARKit, RealityKit, and SwiftUI. Code review available for your engineers to validate.
