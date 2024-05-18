@@ -2,7 +2,8 @@
 
 Augmenos is an independent development studio dedicated to the future of spatial computing. We collaborate with others to design, code, and publish unparalleled experiences on visionOS, iOS, and more. Published projects on Apple Vision Pro include:
 
-- [Museas](https://www.augmenos.com/museas) - Spatial museum with a curated collection of artworks, narrated commentary, and immersive  environments.
+- [Astronoma](https://www.astronoma.app) - Space center with educational telescopic images, 3D models of spacecrafts, and a recreation of the Martian surface.
+- [Museas](https://www.museas.com) - Spatial museum with a curated collection of artworks, narrated commentary, and immersive  environments.
 - [Cyberstocks](https://www.augmenos.com/cyberstocks) - Augmented stock market with real-time data, spatial tickers, charts, and themes. 
 - [Mexico Vision](https://www.augmenos.com/mexicovision) - Interactive 3D gallery of Mexican art, culture, and history with multilingual  support.
 - [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS) - Open source template for Beautiful Things visionOS app.
