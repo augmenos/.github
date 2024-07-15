@@ -7,7 +7,7 @@ Augmenos is an independent development studio dedicated to the future of spatial
 - [Cyberstocks](https://www.augmenos.com/cyberstocks) - Augmented stock market with real-time data, spatial tickers, charts, and themes. 
 - [Mexico Vision](https://www.augmenos.com/mexicovision) - Interactive 3D gallery of Mexican art, culture, and history with multilingual  support.
 
-**Open Source Software**
+**Open Source**
 - [Augmenos Code](https://github.com/augmenos/AugmenosCode) - Learn visionoS development in-app on Apple Vision Pro with interactive samples. 
 - [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS) - Open source template for Beautiful Things visionOS app.
 
