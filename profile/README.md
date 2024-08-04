@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-Augmenos is an independent development studio from [Miguel Garcia Gonzalez](https://github.com/miggiegg) dedicated to the future of spatial computing. I collaborate with others to design, code, and publish unparalleled experiences on visionOS, iOS, and more. Published projects on Apple Vision Pro include:
+Augmenos is an independent development studio from [Miguel Garcia Gonzalez](https://github.com/miggiegg) dedicated to the future of spatial computing. I collaborate with others to design, code, and publish unparalleled experiences on visionOS, iOS, and more. Featured by Apple. Published projects on Apple Vision Pro include:
 
 - [Astronoma](https://www.astronoma.app) - Educational space center with content across spacetime, 3D models of spacecraft, and recreation of the Martian surface.
 - [Museas](https://www.museas.com) - Spatial museum with a curated collection of artworks, narrated commentary, and immersive  environments.
